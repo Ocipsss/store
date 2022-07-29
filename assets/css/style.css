@@ -1,8 +1,13 @@
 .navbar-brand {
   font-family: "Righteous", cursive;
   color: aquamarine;
+  text-shadow: 0.8px -0.8px 1.6px rgba(192, 247, 65, 0.8);
 }
 ul li a,
 form button {
   color: aquamarine !important;
+}
+i {
+  font-size: 1.5em;
+  color: aquamarine;
 }
